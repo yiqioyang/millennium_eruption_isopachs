@@ -10,18 +10,18 @@ The isopachs are hence put here again.
 There are four sets of isopachs in this repository. 
 
 
-HornSchmincke00: 				digitized from Horn and Schmincke (2000),	          	B-Tm ash isopachs
+1. HornSchmincke00: 					digitized from Horn and Schmincke (2000),	          	B-Tm ash isopachs
 
 
-Liu98: 						digitized from Liu (1998),				        Proximal ash isopachs
+2. Liu98: 						digitized from Liu (1998),				        Proximal ash isopachs
 
 
-tephra_atlas:					digitized from Machida (2003),			                B-Tm ash isopachs
+3. tephra_atlas:					digitized from Machida (2003),			                B-Tm ash isopachs
 
 
-added_iso contains two isopachs,			
-	inferred_1mm_iso:		      	constructed in Yang et al, 2021,                             	inferred 1 mm isopach of the B-Tm ash
-	isopach:		              	constructed in Yang et al, 2021,                             	isopachs completed in Yang et al, 2021, based on original isopachs of Machida (2003)
+4. added_iso contains two isopachs,			
+	inferred_1mm_iso:		      		constructed in Yang et al, 2021,                             	inferred 1 mm isopach of the B-Tm ash
+	isopach:		              		constructed in Yang et al, 2021,                             	isopachs completed in Yang et al, 2021, based on original isopachs of Machida (2003)
 
  
  			
