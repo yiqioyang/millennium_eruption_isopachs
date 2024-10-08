@@ -24,6 +24,9 @@ There are four sets of isopachs in this repository.
 
 
 	a. inferred_1mm_iso:		      		constructed in Yang et al, 2021,                             	inferred 1 mm isopach of the B-Tm ash
+
+
+
 	b. isopach:		              		constructed in Yang et al, 2021,                             	isopachs completed in Yang et al, 2021, based on original isopachs of Machida (2003)
 
  
